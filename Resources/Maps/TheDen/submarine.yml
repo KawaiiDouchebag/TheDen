@@ -6,6 +6,7 @@
 # SPDX-FileCopyrightText: 2025 sheepie
 # SPDX-FileCopyrightText: 2025 sleepyyapril
 # SPDX-FileCopyrightText: 2025 therealDLondon
+# SPDX-FileCopyrightText: 2026 Kellaris
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
@@ -189760,13 +189761,6 @@ entities:
       rot: 1.5707963267948966 rad
       pos: 75.63981,62.819332
       parent: 2
-- proto: PlushieAlice
-  entities:
-  - uid: 36111
-    components:
-    - type: Transform
-      pos: 10.497803,53.751694
-      parent: 2
 - proto: PlushieAtmosian
   entities:
   - uid: 39591
@@ -191273,26 +191267,6 @@ entities:
     - type: Transform
       rot: 3.141592653589793 rad
       pos: -34.5,-20.5
-      parent: 2
-- proto: PosterLegitFuckAround
-  entities:
-  - uid: 176
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: -27.5,-6.5
-      parent: 2
-  - uid: 16153
-    components:
-    - type: Transform
-      rot: 3.141592653589793 rad
-      pos: -0.5,38.5
-      parent: 2
-  - uid: 40057
-    components:
-    - type: Transform
-      rot: 1.5707963267948966 rad
-      pos: 83.5,15.5
       parent: 2
 - proto: PosterLegitGetYourLEGS
   entities:

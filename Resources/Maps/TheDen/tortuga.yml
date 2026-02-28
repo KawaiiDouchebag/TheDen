@@ -152294,14 +152294,6 @@ entities:
       rot: 3.141592653589793 rad
       pos: -10.5,30.5
       parent: 33
-- proto: PosterLegitFuckAround
-  entities:
-  - uid: 28937
-    components:
-    - type: Transform
-      rot: -1.5707963267948966 rad
-      pos: -19.5,85.5
-      parent: 33
 - proto: PosterLegitHelpOthers
   entities:
   - uid: 25352
